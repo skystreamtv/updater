@@ -1,0 +1,16 @@
+[
+			{
+				"name": "First Skin",
+				"description": "First skin description",
+				"screenshot_url": "https://drive.google.com/open?id=0B-BYMt3z-qRjUkhmQ0JIbG1Ub28",
+				"brand_url": "https://drive.google.com/open?id=0B-BYMt3z-qRjUkhmQ0JIbG1Ub28",
+				"version": 1
+			},
+			{
+				"name": "Second Skin",
+				"description": "Second skin description",
+				"screenshot_url": "https://drive.google.com/open?id=0B-BYMt3z-qRjUkhmQ0JIbG1Ub28",
+				"brand_url": "https://drive.google.com/open?id=0B-BYMt3z-qRjUkhmQ0JIbG1Ub28",
+				"version": 1
+			}
+]
