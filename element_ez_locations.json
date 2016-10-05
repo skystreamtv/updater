@@ -16,5 +16,14 @@
 				"brand_url": "https://www.dropbox.com/s/l50ag8jwsuubv4t/update.zip?dl=1",
 				"version": 12,
 				"update_details": "New Improvements"
+			},
+			{
+				"id": 3,
+				"name": "Mobdro",
+				"description": "Mobdro Streaming App - Newest Version",
+				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
+				"brand_url": "https://www.dropbox.com/s/9p34h2jhs7f3xy5/mobdro.apk?dl=1",
+				"version": 16,
+				"update_details": "Newest Version"
 			}
 ]
