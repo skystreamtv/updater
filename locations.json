@@ -5,8 +5,8 @@
 				"description": "Full KODI Build with Adult Add-Ons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv1_8365777c-7da7-4fed-be2f-d6aa69fecd9e.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystreamadult/update.zip",
-				"version": 25,
-				"update_details": "<b>12/1/16 NON MANDATORY UPDATE</b><br>- Added Release HUB Addon For 4K Content (REAL DEBRID ACCOUNT REQUIRED)<br>- Added Adults Only HUB Addon For Adult Content (REAL DEBRID ACCOUNT REQUIRED)<br>- Shortened Exodus Link Loading Time To 10 Seconds<br>- Removed Castaway (DEAD ADDON)<br>- General Database Cleanup For Quicker Updater Loading<br>- Fixed OpenSubtitles Error<p style='color:red'>NOTICE: Doing this update will erase any favorites, additional addons you have added, Kodi settings you have changed and Real Debrid and Trakt Accounts</p>"
+				"version": 26,
+				"update_details": "<b>12/28/16 LOTS OF NEW ADDONS AND FIXES</b><br>- Added ProjectM, Silent Hunter, CrimeTube, PAC12, Sanctuary, & Vortex Addons<br>- Removed Old Repos And Added New Ones<br>- Fixed SportsDevil Update Issue (Thanks Sven!)<br>- General Database Cleanup<p style='color:red'>NOTICE: Doing this update will erase any favorites, additional addons you have added, Kodi settings you have changed and Real Debrid and Trakt Accounts</p>"
 			},
 			{
 				"id": 2,
@@ -14,8 +14,8 @@
 				"description": "Full KODI Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv2.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystream/Family+Friendly/update.zip",
-				"version": 25,
-				"update_details": "<b>12/1/16 NON MANDATORY UPDATE</b><br>- Added Release HUB Addon For 4K Content (REAL DEBRID ACCOUNT REQUIRED)<br>- Shortened Exodus Link Loading Time To 10 Seconds<br>- Removed Castaway (DEAD ADDON)<br>- General Database Cleanup For Quicker Updater Loading<br>- Fixed OpenSubtitles Error<p style='color:red'>NOTICE: Doing this update will erase any favorites, additional addons you have added, Kodi settings you have changed and Real Debrid and Trakt Accounts</p>"
+				"version": 26,
+				"update_details": "<b>12/28/16 LOTS OF NEW ADDONS AND FIXES</b><br>- Added ProjectM, Silent Hunter, CrimeTube, PAC12, Sanctuary, & Vortex Addons<br>- Removed Old Repos And Added New Ones<br>- Fixed SportsDevil Update Issue (Thanks Sven!)<br>- General Database Cleanup<p style='color:red'>NOTICE: Doing this update will erase any favorites, additional addons you have added, Kodi settings you have changed and Real Debrid and Trakt Accounts</p>"
 			},
 			{
 				"id": 3,
