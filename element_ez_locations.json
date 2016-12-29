@@ -5,8 +5,8 @@
 				"description": "Element E-Z Stream Full KODI Build with Adult Addons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://www.dropbox.com/s/z3qd7q75p5djqen/update.zip?dl=1",
-				"version": 17,
-				"update_details": "<b>11/21/16 NON MANDATORY UPDATE</b><br>- Added Release HUB Addon For 4K Content (REAL DEBRID ACCOUNT REQUIRED)<br>- Added Adults Only HUB Addon For Adult Content (REAL DEBRID ACCOUNT REQUIRED)<br>- Shortened Exodus Link Loading Time To 10 Seconds<br>- Removed Castaway (DEAD ADDON)<br>- General Database Cleanup For Quicker Updater Loading<p style='color:red'>Doing this update will erase any favorites, additional addons you have added, Kodi settings you have changed and Real Debrid and Trakt Accounts</p>"
+				"version": 18,
+				"update_details": "<b>12/28/16 LOTS OF NEW ADDONS AND FIXES</b><br>- Added ProjectM, MetalliQ, Silent Hunter, CrimeTube, PAC12, Sanctuary, & Vortex Addons<br>- Removed Old Repos And Added New Ones<br>- Fixed SportsDevil Update Issue (Thanks Sven Gali!)<br>- General Database Cleanup"
 			},
 			{
 				"id": 2,
@@ -14,8 +14,8 @@
 				"description": "Full KODI Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://www.dropbox.com/s/l50ag8jwsuubv4t/update.zip?dl=1",
-				"version": 17,
-				"update_details": "<b>11/21/16 NON MANDATORY UPDATE</b><br>- Added Release HUB Addon For 4K Content (REAL DEBRID ACCOUNT REQUIRED)<br>- Shortened Exodus Link Loading Time To 10 Seconds<br>- Removed Castaway (DEAD ADDON)<br>- General Database Cleanup For Quicker Updater Loading<p style='color:red'>Doing this update will erase any favorites, additional addons you have added, Kodi settings you have changed and Real Debrid and Trakt Accounts</p>"
+				"version": 18,
+				"update_details": "<b>12/28/16 LOTS OF NEW ADDONS AND FIXES</b><br>- Added ProjectM, MetalliQ, Silent Hunter, CrimeTube, PAC12, Sanctuary, & Vortex Addons<br>- Removed Old Repos And Added New Ones<br>- Fixed SportsDevil Update Issue (Thanks Sven Gali!)<br>- General Database Cleanup"
 			},
 			{
 				"id": 3,
