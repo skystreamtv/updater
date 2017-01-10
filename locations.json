@@ -25,5 +25,14 @@
 				"brand_url": "https://www.dropbox.com/s/9p34h2jhs7f3xy5/mobdro.apk?dl=1",
 				"version": 19,
 				"update_details": "Newest Version"
+			},
+			{
+				"id": 4,
+				"name": "Netflix Ultra HD",
+				"description": "Netflix with Ultra HD Option",
+				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
+				"brand_url": "https://www.dropbox.com/s/yqxxps26fuxmaw2/netflixlatest.ultrahd.apk?dl=1",
+				"version": 1,
+				"update_details": "Netflix Ultra HD - Must have Ultra HD Subscription for this to stream in Ultra HD"
 			}
 ]
