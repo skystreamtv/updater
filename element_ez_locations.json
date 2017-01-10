@@ -25,5 +25,14 @@
 				"brand_url": "https://www.dropbox.com/s/9p34h2jhs7f3xy5/mobdro.apk?dl=1",
 				"version": 19,
 				"update_details": "Newest Version"
+			},
+			{
+				"id": 4,
+				"name": "Netflix Ultra HD",
+				"description": "Netflix with Ultra HD Option",
+				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
+				"brand_url": "https://www.dropbox.com/s/d8j64clkf6v9uig/netflixlatest.ultrahd.apk?dl=1”,
+				"version": 1,
+				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for Element Ti4 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For Element Ti5 & Element Ti8 - Settings => Apps => Scroll right to Netflix => Uninstall"
 			}
 ]
