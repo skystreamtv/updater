@@ -1,0 +1,38 @@
+[
+			{
+				"id": 1,
+				"name": "Element E-Z Stream KODI Updater with Adult Addons",
+				"description": "Element E-Z Stream Full KODI Build with Adult Addons",
+				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
+				"brand_url": "https://www.dropbox.com/s/z3qd7q75p5djqen/update.zip?dl=1",
+				"version": 22,
+				"update_details": "<b>3/15/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
+			},
+			{
+				"id": 2,
+				"name": "Element E-Z Stream KODI Updater without Adult Add-Ons - Family Friendly",
+				"description": "Full KODI Build - Family Friendly Version",
+				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
+				"brand_url": "https://www.dropbox.com/s/l50ag8jwsuubv4t/update.zip?dl=1",
+				"version": 22,
+				"update_details": "<b>3/15/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
+			},
+			{
+				"id": 3,
+				"name": "Mobdro",
+				"description": "Mobdro Streaming App - Newest Version",
+				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
+				"brand_url": "https://www.dropbox.com/s/9p34h2jhs7f3xy5/mobdro.apk?dl=1",
+				"version": 21,
+				"update_details": "Newest Version"
+			},
+			{
+				"id": 4,
+				"name": "Netflix Ultra HD",
+				"description": "Netflix with Ultra HD Option",
+				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
+				"brand_url": "https://www.dropbox.com/s/d8j64clkf6v9uig/netflixlatest.ultrahd.apk?dl=1",
+				"version": 1,
+				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for Element Ti4 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For Element Ti5 & Element Ti8 - Settings => Apps => Scroll right to Netflix => Uninstall"
+			}
+]
