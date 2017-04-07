@@ -4,7 +4,7 @@
 				"name": "Element E-Z Stream KODI Updater with Adult Addons",
 				"description": "Element E-Z Stream Full KODI Build with Adult Addons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
-				"brand_url": "https://www.dropbox.com/s/z3qd7q75p5djqen/update.zip?dl=1",
+				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
 				"version": 23,
 				"update_details": "<b>4/7/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
 			},
@@ -13,7 +13,7 @@
 				"name": "Element E-Z Stream KODI Updater without Adult Add-Ons - Family Friendly",
 				"description": "Full KODI Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
-				"brand_url": "https://www.dropbox.com/s/l50ag8jwsuubv4t/update.zip?dl=1",
+				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
 				"version": 23,
 				"update_details": "<b>4/7/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
 			},
