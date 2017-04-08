@@ -22,7 +22,7 @@
 				"name": "Mobdro",
 				"description": "Mobdro Streaming App - Newest Version",
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "	https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
+				"brand_url": "https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
 				"version": 22,
 				"update_details": "Newest Version"
 			},
@@ -31,7 +31,7 @@
 				"name": "Netflix Ultra HD",
 				"description": "Netflix with Ultra HD Option",
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "	https://s3.amazonaws.com/skystream/Netflix/netflixlatest.ultrahd.apk",
+				"brand_url": "https://s3.amazonaws.com/skystream/Netflix/netflixlatest.ultrahd.apk",
 				"version": 1,
 				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for SkyStream X2, X4 & X5 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For SkyStream ONE - Settings => Apps => Scroll right to Netflix => Uninstall"
 			}
