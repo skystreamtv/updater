@@ -5,8 +5,8 @@
 				"description": "Element E-Z Stream Full KODI Build with Adult Addons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
-				"version": 23,
-				"update_details": "<b>4/7/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
+				"version": 24,
+				"update_details": "<b>4/30/17 NON-MANDATORY CLEANUP</b><br>- Removed Intercomp Repo<br>- Removed Project D Addon (Now Part Of Phoenix)<br>- Updated Sanctuary Repo<br>-General Database Cleanup"
 			},
 			{
 				"id": 2,
@@ -14,8 +14,8 @@
 				"description": "Full KODI Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
-				"version": 23,
-				"update_details": "<b>4/7/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
+				"version": 24,
+				"update_details": "<b>4/30/17 NON-MANDATORY CLEANUP</b><br>- Removed Intercomp Repo<br>- Removed Project D Addon (Now Part Of Phoenix)<br>- Updated Sanctuary Repo<br>-General Database Cleanup"
 			},
 			{
 				"id": 3,
