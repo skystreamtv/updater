@@ -5,8 +5,8 @@
 				"description": "Full KODI Build with Adult Add-Ons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv1_8365777c-7da7-4fed-be2f-d6aa69fecd9e.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystream/Adult+Friendly/update.zip",
-				"version": 33,
-				"update_details": "<b>4/6/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
+				"version": 34,
+				"update_details": "<b>4/30/17 NON-MANDATORY CLEANUP</b><br>- Removed Intercomp Repo<br>- Removed Project D Addon (Now Part Of Phoenix)<br>- Updated Sanctuary Repo<br>-General Database Cleanup"
 			},
 			{
 				"id": 2,
@@ -14,8 +14,8 @@
 				"description": "Full KODI Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv2.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystream/Family+Friendly/update.zip",
-				"version": 33,
-				"update_details": "<b>4/6/17 NEW ADDONS AND CHANGES</b><br>- New Video Addons: Vendetta And Updated Adryanlist Repo<br>- Removed Addons: FUBAR, Imperial Streams, Project M<br>- General Database Cleanup"
+				"version": 34,
+				"update_details": "<b>4/30/17 NON-MANDATORY CLEANUP</b><br>- Removed Intercomp Repo<br>- Removed Project D Addon (Now Part Of Phoenix)<br>- Updated Sanctuary Repo<br>-General Database Cleanup"
 			},
 			{
 				"id": 3,
@@ -23,7 +23,7 @@
 				"description": "Mobdro Streaming App - Newest Version",
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
 				"brand_url": "	https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
-				"version": 22,
+				"version": 23,
 				"update_details": "Newest Version"
 			},
 			{
