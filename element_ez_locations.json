@@ -1,8 +1,8 @@
 [
 			{
 				"id": 1,
-				"name": "Element E-Z Stream KODI Updater with Adult Addons",
-				"description": "Element E-Z Stream Full KODI Build with Adult Addons",
+				"name": "Element E-Z Stream Media Center Updater with Adult Addons",
+				"description": "Element E-Z Stream Full Media Center Build with Adult Addons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
 				"version": 24,
@@ -10,8 +10,8 @@
 			},
 			{
 				"id": 2,
-				"name": "Element E-Z Stream KODI Updater without Adult Add-Ons - Family Friendly",
-				"description": "Full KODI Build - Family Friendly Version",
+				"name": "Element E-Z Stream Media Center Updater without Adult Add-Ons - Family Friendly",
+				"description": "Full Media Center Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
 				"version": 24,
