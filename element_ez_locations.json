@@ -5,8 +5,8 @@
 				"description": "Element E-Z Stream Full Media Center Build with Adult Addons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
-				"version": 26,
-				"update_details": "<b>6/19/17 MANDATORY UPDATE! FRESH INSTALL IS REQUIRED!</b><br>- New Exodus Repo<br>- Zen is now called Elysium<br>- SALTS is now part of Exodus Repo<br>- Installed critical modules for HD Links<br>- General Database Cleanup"
+				"version": 27,
+				"update_details": "<b>6/30/17 NON-MANDATORY UPDATE. FRESH INSTALL IS RECOMMENDED</b><br>- New Addons Picasso, Real-Movies, Stream Army, Quantum, Skynet, The Black Hat<br>- New Repositories For Various Addons<br>- General Database Cleanup"
 			},
 			{
 				"id": 2,
@@ -14,8 +14,8 @@
 				"description": "Full Media Center Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
-				"version": 26,
-				"update_details": "<b>6/19/17 MANDATORY UPDATE! FRESH INSTALL IS REQUIRED!</b><br>- New Exodus Repo<br>- Zen is now called Elysium<br>- SALTS is now part of Exodus Repo<br>- Installed critical modules for HD Links<br>- General Database Cleanup"
+				"version": 27,
+				"update_details": "<b>6/30/17 NON-MANDATORY UPDATE. FRESH INSTALL IS RECOMMENDED</b><br>- New Addons Picasso, Real-Movies, Stream Army, Quantum, Skynet, The Black Hat<br>- New Repositories For Various Addons<br>- General Database Cleanup"
 			},
 			{
 				"id": 3,
