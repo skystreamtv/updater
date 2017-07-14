@@ -5,8 +5,8 @@
 				"description": "Full Media Center Build with Adult Add-Ons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv1_8365777c-7da7-4fed-be2f-d6aa69fecd9e.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystream/Adult+Friendly/update.zip",
-				"version": 37,
-				"update_details": "<b>6/30/17 NON-MANDATORY UPDATE. FRESH INSTALL IS RECOMMENDED</b><br>- New Addons Picasso, Real-Movies, Stream Army, Quantum, Skynet, The Black Hat<br>- New Repositories For Various Addons<br>- General Database Cleanup"
+				"version": 38,
+				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup"
 			},
 			{
 				"id": 2,
@@ -14,8 +14,8 @@
 				"description": "Full Media Center Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv2.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystream/Family+Friendly/update.zip",
-				"version": 37,
-				"update_details": "<b>6/30/17 NON-MANDATORY UPDATE. FRESH INSTALL IS RECOMMENDED</b><br>- New Addons Picasso, Real-Movies, Stream Army, Quantum, Skynet, The Black Hat<br>- New Repositories For Various Addons<br>- General Database Cleanup"
+				"version": 38,
+				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup"
 			},
 			{
 				"id": 3,
