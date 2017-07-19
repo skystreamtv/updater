@@ -6,7 +6,8 @@
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
 				"version": 28,
-				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup"
+				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup",
+				"notification": "Notification text here"
 			},
 			{
 				"id": 2,
@@ -15,7 +16,8 @@
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
 				"version": 28,
-				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup"
+				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup",
+				"notification": "Notification text here"
 			},
 			{
 				"id": 3,
@@ -24,7 +26,8 @@
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
 				"brand_url": "https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
 				"version": 23,
-				"update_details": "Newest Version"
+				"update_details": "Newest Version",
+				"notification": "Notification text here"
 			},
 			{
 				"id": 4,
@@ -33,6 +36,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
 				"brand_url": "https://s3.amazonaws.com/skystream/Netflix/netflixlatest.ultrahd.apk",
 				"version": 1,
-				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for Element Ti4 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For Element Ti5 & Element Ti8 - Settings => Apps => Scroll right to Netflix => Uninstall"
+				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for Element Ti4 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For Element Ti5 & Element Ti8 - Settings => Apps => Scroll right to Netflix => Uninstall",
+				"notification": "Notification text here"
 			}
 ]
