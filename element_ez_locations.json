@@ -5,8 +5,8 @@
 				"description": "Element E-Z Stream Full Media Center Build with Adult Addons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
-				"version": 28,
-				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup",
+				"version": 29,
+				"update_details": "<b>7/19/17 MANDATORY UPDATE. FRESH INSTALL IS REQUIRED!!! DO NOT USE SAVE USER SETTINGS!!!</b><br>-  New Colossus Repo and Covenant Update<br>- New Smash Repo<br>- New Sportsdevil Update<br>- General Database Cleanup",
 				"notification": "Notification text here"
 			},
 			{
@@ -15,8 +15,8 @@
 				"description": "Full Media Center Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
-				"version": 28,
-				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup",
+				"version": 29,
+				"update_details": "<b>7/19/17 MANDATORY UPDATE. FRESH INSTALL IS REQUIRED!!! DO NOT USE SAVE USER SETTINGS!!!</b><br>-  New Colossus Repo and Covenant Update<br>- New Smash Repo<br>- New Sportsdevil Update<br>- General Database Cleanup",
 				"notification": "Notification text here"
 			},
 			{
