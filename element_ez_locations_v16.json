@@ -5,7 +5,7 @@
 				"description": "E-Z Stream Full Media Center Build with Adult Addons",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
-				"version": 28,
+				"version": 29,
 				"update_details": "<b>7/19/17 MANDATORY UPDATE. FRESH INSTALL IS REQUIRED!!! DO NOT USE SAVE USER SETTINGS!!!</b><br>-  New Colossus Repo and Covenant Update<br>- New Smash Repo<br>- New Sportsdevil Update<br>- General Database Cleanup",
 				"notification": "Notification text here"
 			},
@@ -15,7 +15,7 @@
 				"description": "E-Z Stream Full Media Center Build - Family Friendly Version",
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0817/4001/files/ELEMENT_Main_Logo-450x250.jpg?13622997364977221126",
 				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
-				"version": 28,
+				"version": 29,
 				"update_details": "<b>7/19/17 MANDATORY UPDATE. FRESH INSTALL IS REQUIRED!!! DO NOT USE SAVE USER SETTINGS!!!</b><br>-  New Colossus Repo and Covenant Update<br>- New Smash Repo<br>- New Sportsdevil Update<br>- General Database Cleanup",
 				"notification": "Notification text here"
 			},
