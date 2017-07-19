@@ -6,7 +6,8 @@
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv1_8365777c-7da7-4fed-be2f-d6aa69fecd9e.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystream/Adult+Friendly/update.zip",
 				"version": 38,
-				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup"
+				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup",
+				"notification": "Notification text here"
 			},
 			{
 				"id": 2,
@@ -15,7 +16,8 @@
 				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv2.jpg?14559282071274027496",
 				"brand_url": "https://s3.amazonaws.com/skystream/Family+Friendly/update.zip",
 				"version": 38,
-				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup"
+				"update_details": "<b>7/14/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY RECOMMENDED</b><br>- Exodus is dead and was removed. Covenant is the new Exodus<br>- New Colossus Repository For Covenant<br>- Fixed Wolfpack UPDATE FAILED Issue<br>- General Database Cleanup",
+				"notification": "Notification text here"
 			},
 			{
 				"id": 3,
@@ -24,7 +26,8 @@
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
 				"brand_url": "	https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
 				"version": 24,
-				"update_details": "Newest Version"
+				"update_details": "Newest Version",
+				"notification": "Notification text here"
 			},
 			{
 				"id": 4,
@@ -33,6 +36,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
 				"brand_url": "	https://s3.amazonaws.com/skystream/Netflix/netflixlatest.ultrahd.apk",
 				"version": 1,
-				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for SkyStream X2, X4 & X5 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For SkyStream ONE - Settings => Apps => Scroll right to Netflix => Uninstall"
+				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for SkyStream X2, X4 & X5 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For SkyStream ONE - Settings => Apps => Scroll right to Netflix => Uninstall",
+				"notification": "Notification text here"
 			}
 ]
