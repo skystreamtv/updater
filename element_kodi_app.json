@@ -1,5 +1,6 @@
 {
 "name": "E-Z Stream Media Center",
 "download_url": "https://s3.amazonaws.com/elementupdater/Kodi+APK/EZStream-MediaCenter-V1-signed.apk",
-  "version": 18
+  "version": 18,
+  "notification":"Notification text here"
 }
