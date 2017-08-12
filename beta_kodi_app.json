@@ -1,7 +1,7 @@
 {
   "name": "Skystream Media Center",
   "download_url": "https://s3.amazonaws.com/skystream/Kodi+APK/Kodi+Betas/FTMC-16.2.29-armeabi-v7a-signed.apk",
-  "version": 30,
+  "version": 31,
   "description":"Update available. Get it while it's hot!!",
-  "last_mandatory_version":30
+  "last_mandatory_version":31
 }
