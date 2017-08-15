@@ -7,7 +7,8 @@
     "brand_url": "https://s3.amazonaws.com/skystream/Adult+Friendly/beta/update.zip",
     "version": 40,
     "update_details": "<b>4/30/17 NON-MANDATORY CLEANUP</b><br>- Removed Intercomp Repo<br>- Removed Project D Addon (Now Part Of Phoenix)<br>- Updated Sanctuary Repo<br>-General Database Cleanup",
-    "notification":"Notification text here"
+    "notification":"Notification text here",
+    "last_mandatory_version":31
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "brand_url": "https://s3.amazonaws.com/skystream/Family+Friendly/beta/update.zip",
     "version": 40,
     "update_details": "<b>4/30/17 NON-MANDATORY CLEANUP</b><br>- Removed Intercomp Repo<br>- Removed Project D Addon (Now Part Of Phoenix)<br>- Updated Sanctuary Repo<br>-General Database Cleanup",
-    "notification":"Notification text here"
+    "notification":"Notification text here",
+    "last_mandatory_version":31
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "brand_url": "https://www.dropbox.com/s/9p34h2jhs7f3xy5/mobdro.apk?dl=1",
     "version": 40,
     "update_details": "Newest Version",
-    "notification":"Notification text here"
+    "notification":"Notification text here",
+    "last_mandatory_version":31
   },
   {
     "id": 4,
@@ -37,6 +40,7 @@
     "brand_url": "https://www.dropbox.com/s/yqxxps26fuxmaw2/netflixlatest.ultrahd.apk?dl=1",
     "version": 40,
     "update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for SkyStream X2, X4 & X5 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For SkyStream ONE - Settings => Apps => Scroll right to Netflix => Uninstall",
-    "notification":"Notification text here"
+    "notification":"Notification text here",
+    "last_mandatory_version":31
   }
 ]
