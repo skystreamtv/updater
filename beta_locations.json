@@ -8,7 +8,7 @@
     "version": 44,
     "update_details": "<b>Beta Xonfluence Build</b><br>Testing for version number recognition",
     "notification":"Notification text here",
-    "last_mandatory_version":42
+    "last_mandatory_version":0
   },
   {
     "id": 2,
