@@ -19,7 +19,7 @@
     "version": 40,
     "update_details": "<b>4/30/17 NON-MANDATORY CLEANUP</b><br>- Removed Intercomp Repo<br>- Removed Project D Addon (Now Part Of Phoenix)<br>- Updated Sanctuary Repo<br>-General Database Cleanup",
     "notification":"Notification text here",
-    "last_mandatory_version":31
+    "last_mandatory_version":0
   },
   {
     "id": 3,
