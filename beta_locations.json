@@ -5,7 +5,7 @@
     "description": "Full KODI Build with Adult Add-Ons",
     "screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv1_8365777c-7da7-4fed-be2f-d6aa69fecd9e.jpg?14559282071274027496",
     "brand_url": "https://s3.amazonaws.com/skystream/Adult+Friendly/beta/update.zip",
-    "version": 44,
+    "version": 45,
     "update_details": "<b>Beta Xonfluence Build</b><br>Testing for version number recognition",
     "notification":"Notification text here",
     "last_mandatory_version":44
