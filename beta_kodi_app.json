@@ -1,7 +1,7 @@
 {
   "name": "Skystream Media Center",
   "download_url": "https://www.dropbox.com/s/zxd6458n3ui5hmd/FTMC-16.2.30-armeabi-v7a.apk?dl=1",
-  "version": 33,
+  "version": 32,
   "description":"Media Center Update available. Get it while it's hot!!",
-  "last_mandatory_version":33
+  "last_mandatory_version":32
 }
