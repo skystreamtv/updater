@@ -7,7 +7,7 @@
 				"brand_url": "https://s3.amazonaws.com/skystream/Adult+Friendly/update.zip",
 				"version": 40,
 				"update_details": "<b>8/10/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY! RECOMMENDED!!! SAVE USER SETTINGS FOR EXPERT USERS ONLY!!</b><br>-  Added Bennu, The Delorean, Bucky Movies, Moviedude, Bubbles, (RD ONLY) And Project M<br>- Lots of Repository changes and cleanup<br>- General Database Cleanup",
-				"notification": "Notification text here"
+				"notification": "There is an update to the Adult Version. Please update so you have the latest addons, update and fixes."
 			},
 			{
 				"id": 2,
@@ -17,7 +17,7 @@
 				"brand_url": "https://s3.amazonaws.com/skystream/Family+Friendly/update.zip",
 				"version": 40,
 				"update_details": "<b>8/10/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY! RECOMMENDED!!! SAVE USER SETTINGS FOR EXPERT USERS ONLY!!</b><br>-  Added Bennu, The Delorean, Bucky Movies, Moviedude, Bubbles, (RD ONLY) And Project M<br>- Lots of Repository changes and cleanup<br>- General Database Cleanup",
-				"notification": "Notification text here"
+				"notification": "There is an update to the Family Friendly Version. Please update so you have the latest addons, update and fixes."
 			},
 			{
 				"id": 3,
@@ -27,7 +27,7 @@
 				"brand_url": "https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
 				"version": 25,
 				"update_details": "Newest Version",
-				"notification": "Notification text here"
+				"notification": "There is an update to the Mobdro App. Please update to the latest version."
 			},
 			{
 				"id": 4,
