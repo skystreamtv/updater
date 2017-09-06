@@ -1,7 +1,7 @@
 {
 "name": "Kodi",
-"download_url": "	https://s3.amazonaws.com/skystream/Kodi+APK/SS-FTMC-161.apk",
-  "version": 17,
+"download_url": "https://s3.amazonaws.com/skystream/Kodi+APK/Skystream_MediaCenter_09062017-signed.apk",
+  "version": 18,
   "description":"There is a new version of the Media Center Available. Please click on Update.",
-  "last_mandatory_version":17
+  "last_mandatory_version":18
 }
