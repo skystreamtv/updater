@@ -7,7 +7,8 @@
 				"brand_url": "https://s3.amazonaws.com/elementupdater/adult+version/update.zip",
 				"version": 30,
 				"update_details": "<b>8/10/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY! RECOMMENDED!!! SAVE USER SETTINGS FOR EXPERT USERS ONLY!!</b><br>-  Added Bennu, The Delorean, Bucky Movies, Moviedude, Bubbles, (RD ONLY) And Project M<br>- Lots of Repository changes and cleanup<br>- General Database Cleanup",
-				"notification": "There is an update to the Adult Version. Please update so you have the latest addons, update and fixes."
+				"notification": "There is an update to the Adult Version. Please update so you have the latest addons, update and fixes.",
+				"last_mandatory_version":30
 			},
 			{
 				"id": 2,
@@ -17,7 +18,8 @@
 				"brand_url": "https://s3.amazonaws.com/elementupdater/family+friendly/update.zip",
 				"version": 30,
 				"update_details": "<b>8/10/17 SEMI-MANDATORY UPDATE. FRESH INSTALL IS HIGHLY! RECOMMENDED!!! SAVE USER SETTINGS FOR EXPERT USERS ONLY!!</b><br>-  Added Bennu, The Delorean, Bucky Movies, Moviedude, Bubbles, (RD ONLY) And Project M<br>- Lots of Repository changes and cleanup<br>- General Database Cleanup",
-				"notification": "There is an update to the Family Friendly Version. Please update so you have the latest addons, update and fixes."
+				"notification": "There is an update to the Family Friendly Version. Please update so you have the latest addons, update and fixes.",
+				"last_mandatory_version":30
 			},
 			{
 				"id": 3,
@@ -27,7 +29,8 @@
 				"brand_url": "https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
 				"version": 24,
 				"update_details": "Newest Version",
-				"notification": "There is an update to the Mobdro App. Please update to the latest version."
+				"notification": "There is an update to the Mobdro App. Please update to the latest version.",
+				"last_mandatory_version":24
 			},
 			{
 				"id": 4,
@@ -37,6 +40,7 @@
 				"brand_url": "https://s3.amazonaws.com/skystream/Netflix/netflixlatest.ultrahd.apk",
 				"version": 2,
 				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for Element Ti4 - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For Element Ti5 & Element Ti8 - Settings => Apps => Scroll right to Netflix => Uninstall",
-				"notification": "Notification text here"
+				"notification": "Notification text here",
+				"last_mandatory_version":2
 			}
 ]
