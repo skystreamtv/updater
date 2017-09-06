@@ -1,7 +1,7 @@
 
 {
   "version":50,
-  "download_url":"https://s3.amazonaws.com/skystream/Updater+APK/skystream_v32-signed.apk",
+  "download_url":"https://www.dropbox.com/s/vtdsv9dhf4f6hiu/beta_v35.apk?dl=1",
   "description":"There is a new updated version of the Media Center application. Click on Update now to update your Media Center application!",
   "notification":"Notification text here",
   "last_mandatory_version":50
